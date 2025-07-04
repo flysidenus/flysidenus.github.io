@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fr.sooleg.com/sitemap-index.xml
